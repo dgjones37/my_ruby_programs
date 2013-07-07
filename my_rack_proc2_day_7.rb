@@ -1,4 +1,4 @@
-# my_rack_proc2.rb
+# my_rack_proc2_day_7.rb
 
 require 'rack'
 
